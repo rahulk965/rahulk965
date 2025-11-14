@@ -15,47 +15,10 @@ Crafting scalable, intelligent, and modern digital experiences.
 
 I'm a developer specializing in **Full-Stack Engineering, Blockchain Smart Contracts, and AI-integrated applications**.  
 I build **fast, scalable, and user-focused software** that solves real-world problems.
-
-Across every project — decentralized apps, AI-driven assistants, dashboards, or productivity tools — I focus on:
-
-- ⚡ Scalable & clean architecture  
-- 🎨 Modern UI/UX  
-- 🔒 Secure & reliable systems  
-- 🤖 Intelligent automation  
-- 🚀 High performance  
+  
 
 I love exploring new technologies, participating in hackathons, contributing to open-source, and constantly evolving as an engineer.
 
----
-
-# 🛠️ Tech Stack
-
-### 💻 Full-Stack Development
-- React, JavaScript, Vite  
-- Node.js, Express.js  
-- REST APIs, Authentication  
-- MongoDB, Firebase  
-
-### 🔗 Web3 / Blockchain
-- Solidity  
-- Foundry  
-- ERC20, Smart Contracts  
-- dApps & Wallet Integration  
-
-### 🤖 AI & Automation
-- Recommendation Systems  
-- NLP-Based Mood Detection  
-- AI Assistants  
-- Speech-to-Text  
-- Intelligent Analysis  
-
-### ⚙️ Tools & DevOps
-- Git, GitHub  
-- Postman, Thunder Client  
-- Vercel, Netlify  
-- System Design  
-
----
 
 # 🚀 Featured Projects
 
@@ -109,19 +72,6 @@ Active contributor to open-source:
 - Collaborating with global developers  
 
 I believe in building publicly and growing through community.
-
----
-
-# 🎯 Focus Areas
-
-- Full-Stack + Web3 + AI Fusion  
-- Scalable product engineering  
-- Smart contract architecture  
-- Real-time systems  
-- Open-source contributions  
-- High-performance applications  
-
----
 
 # 📬 Connect With Me
 
