@@ -125,7 +125,7 @@ I believe in building publicly and growing through community.
 
 # 📬 Connect With Me
 
-- 🌐 Portfolio: _coming soon_  
+- 🌐 Portfolio: https://my-portfolio-psi-roan-g021hm72lb.vercel.app/ 
 - 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar-6601182a0/  
 - 📧 Email: rahulkumar965189@gmail.com  
 
